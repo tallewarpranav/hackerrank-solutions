@@ -1,0 +1,10 @@
+# Security
+
+|        Subdomain         |                   Challenge                   |                                               Problem                                                | Difficulty | Score |                           Solution                           |
+| :----------------------: | :-------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------: | :---: |:------------------------------------------------------------:|
+|        Functions         |              Security Functions               |         [Problem](https://www.hackerrank.com/challenges/security-tutorial-functions/problem)         |    Easy    |   5   |    [Solution](/security/functions/SecurityFunction.java)     |
+|        Functions         |             Security Functions II             |            [Problem](https://www.hackerrank.com/challenges/security-function-ii/problem)             |    Easy    |   5   |    [Solution](/security/functions/SecurityFunction2.java)    |
+|        Functions         |         Security Bijective Functions          |        [Problem](https://www.hackerrank.com/challenges/security-bijective-functions/problem)         |    Easy    |  10   |    [Solution](/security/functions/BijectiveFunction.java)    |
+|        Functions         |          Security Function Inverses           |       [Problem](https://www.hackerrank.com/challenges/security-inverse-of-a-function/problem)        |    Easy    |  10   | [Solution](/security/functions/SecurityFunctionInverse.java) |
+|        Functions         |             Security Permutations             |       [Problem](https://www.hackerrank.com/challenges/security-tutorial-permutations/problem)        |    Easy    |  10   |  [Solution](/security/functions/SecurityPermutations.java)   |
+|        Functions         |              Security Involution              |             [Problem](https://www.hackerrank.com/challenges/security-involution/problem)             |    Easy    |  10   |   [Solution](/security/functions/SecurityInvolution.java)    |
